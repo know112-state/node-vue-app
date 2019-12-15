@@ -10,7 +10,12 @@
     "author": "shengwenlu",
     "license": "ISC",
     "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "ecmascript6": "^0.1.2",
         "express": "^4.17.1",
+        "gravatar": "^1.8.0",
+        "mongoose": "^5.8.1",
         "mozilla": "0.0.0"
     }
 }
